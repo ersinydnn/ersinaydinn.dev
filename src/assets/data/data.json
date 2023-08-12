@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/XZfrcH4/rest-countries-api.png",
+    "title": "Rest Countries App",
+    "description": "In this project, i use ReactJS and Tailwind CSS. I use Rest Countries API to get data.",
+    "liveLink": "https://rest-countries-api-react-tailwind.vercel.app/",
+    "repo": "https://github.com/ersinydnn/rest-countries-api--react-tailwind"
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/9cLn8Vv/e-commerce-app.png",
+    "title": "E-Commerce App",
+    "description": "This project is a Frontend Mentor challenge. I use ReactJS and Tailwind CSS. Also in this project, i improve my skills at responsive design. ",
+    "liveLink": "https://e-commerce-app-nine-peach.vercel.app/",
+    "repo": "https://github.com/ersinydnn/e-commerce-app"
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/235R4FZ/getir-clone.png",
+    "title": "Getir-Clone",
+    "description": "Getir is the largest ordering compaies in Turkey. I re-create Getir's home page in this project. This is the first project that i use TailwindCSS.",
+    "liveLink": "https://getir-clone-react-tailwind-delta.vercel.app/",
+    "repo": "https://github.com/ersinydnn/getir-clone---react-tailwind"
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/XkDmJnv/comments-page.png",
+    "title": "Comments Page",
+    "description": "I use SCSS in this project. In this project, i improve my hover states skills.",
+    "liveLink": "https://react-comments-page.vercel.app/",
+    "repo": "https://github.com/ersinydnn/react-comments-page"
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/ZTMnd5P/multi-step-form.png",
+    "title": "Multi-Step Form",
+    "description": "React Hooks like useState, useEffect; i learned them in  this project. Also i use Styled Components.",
+    "liveLink": "https://react-multi-step-form-psi.vercel.app/",
+    "repo": "https://github.com/ersinydnn/react-multi-step-form"
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/ysRKCnw/netfilms-app.png",
+    "title": "Netfilms App",
+    "description": "This is my biggest and fullest application. I use NextJS in this project and i learned so many this about NextJS. I understand NextJS routing system in this project. By the way this is not my app, i re-create this app.",
+    "liveLink": "https://netfilms-chi.vercel.app/",
+    "repo": "https://github.com/ersinydnn/netflims-app"
+  }
+]
