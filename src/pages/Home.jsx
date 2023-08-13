@@ -4,8 +4,8 @@ import "../styles/styles.css";
 
 function Home() {
   return (
-    <div className="flex flex-col justify-center items-center h-auto">
-      <video className="bg-video h-full" autoPlay loop muted>
+    <div className="flex flex-col justify-center items-center h-full">
+      <video className="bg-video h-auto" autoPlay loop muted>
         <source src={process.env.PUBLIC_URL + "/bg.mp4"} type="video/mp4" />
       </video>
       <div className="mt-10  flex flex-col items-center md:w-48 md:h-48 lg:w-full lg:h-full">
