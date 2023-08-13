@@ -4,7 +4,7 @@ import "../styles/styles.css";
 
 function Home() {
   return (
-    <div className="flex flex-col justify-center items-center h-full">
+    <div className="flex flex-col justify-center items-center h-auto">
       <video className="bg-video h-full" autoPlay loop muted>
         <source src={process.env.PUBLIC_URL + "/bg.mp4"} type="video/mp4" />
       </video>
